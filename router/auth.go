@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
-	"server/utils"
+	"disoauth/utils"
 
 	"github.com/golang-jwt/jwt"
 )

@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"server/router"
+	"disoauth/router"
 
 	"github.com/joho/godotenv"
 )

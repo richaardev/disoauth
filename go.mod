@@ -1,4 +1,4 @@
-module server
+module disoauth
 
 go 1.18
 
